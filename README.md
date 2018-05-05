@@ -26,6 +26,8 @@ IDF(t) = log(e为底)(文档总数 / 含有term t的文档总数)
 
 hence TF-IDF = TF(t) * IDF(t)
 
+ <img src="TF-IDF_Wiki.jpg" width="100%" height="100%" alt="TF-IDF"/><br />
+
 第五步，算出来的这些TF-IDF值就是vectors可以输入给计算机用各类model或DL网络学习
 
 ### 2. 实例home_depot_product_search_relevance.ipynb和html - Bayer project - 分析药品
