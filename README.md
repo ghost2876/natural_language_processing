@@ -2,7 +2,7 @@
 
 ### 1. NLP经常要做的一些工作：
 
-第一步，tokenize分词，把一句长话分成很多很多次，工具：python - nltk包（对英文），jieba（对中文）
+第一步，tokenize分词，把一句长话分成很多很多词，工具：python - nltk包（对英文），jieba（对中文）
 
 第二步，stemming和lemma，把词的各种时态、形式统一统一
 
